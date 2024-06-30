@@ -1,0 +1,71 @@
+.bodyviajeschile{
+
+ background-color: black;
+}
+
+.headerviajeschile{
+    background-color: black;
+}
+
+.sectionquienessomos{
+    background-color: black;
+    text-align: center;
+    
+}
+.fa-solidfa-plane{
+    color: aliceblue;
+}
+
+.h1{
+    text-align: center;
+}
+.card-header{
+    container: center;
+}
+#DESTACADOS{
+    text-align: center;
+    display: inline-block;
+}
+#CONTACTO{
+    text-align: center;
+    background-color: black;
+}
+.viajes{
+    width:1%; 
+    height:1%;
+}
+.mb-3{
+    text-align: left;
+}
+
+#viajesChile{
+    background-color: hsl(190, 66%, 50%);
+    text-align: center;
+}
+
+.col{
+    display: inline-block;
+    margin-left: 20px;
+
+    }
+    html {
+        scroll-behavior: smooth;
+      }
+      
+      #section1 {
+        height: 600px;
+        background-color: rgb(252, 253, 253);
+      }
+      
+      #section2 {
+        height: 600px;
+        background-color: rgb(26, 228, 215);
+      }
+.footerviajeschile{
+    background-color:hsl(190, 66%, 50%);
+    text-align: center;
+}
+
+.footerviajeschile small{
+     text-align:center;
+  }
